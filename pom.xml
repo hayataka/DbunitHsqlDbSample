@@ -10,4 +10,21 @@
 
 	<artifactId>DbunitHsqlDbSample</artifactId>
 	<name>DbunitHsqlDbSample</name>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.dbunit</groupId>
+			<artifactId>dbunit</artifactId>
+		</dependency>
+
+
+		<dependency>
+			<groupId>org.mybatis</groupId>
+			<artifactId>mybatis</artifactId>
+			<version>3.2.8</version>
+		</dependency>
+
+
+	</dependencies>
+
 </project>
